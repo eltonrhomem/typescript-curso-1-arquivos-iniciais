@@ -3,6 +3,8 @@
         "outDir": "dist/js",
         "target": "ES6",
         "noEmitOnError": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
         // "module": "commonjs",
         // "strict": true,
         // "esModuleInterop": true,
