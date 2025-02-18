@@ -5,6 +5,8 @@
         "noEmitOnError": true,
         "noImplicitAny": true,
         "moduleResolution": "node",
+        "removeComments": true,
+        "strictNullChecks": true,
         // "module": "commonjs",
         // "strict": true,
         // "esModuleInterop": true,
